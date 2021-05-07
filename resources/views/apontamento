@@ -1,0 +1,11 @@
+
+--- Alerta de notificação de proposta (quantidade) quando é um user 
+--- Controle de acesso quando é um colaborador
+--- Palavra vído no registo de apartamento
+--- Palavra vídeo no site, ao ver detalhes do apartamento
+--- Mensagem de registo efectuado com sucesso (apartamento)
+--- Não retornar todos os colaboradores a um colaborador caso copia-se  a rota
+--- User retornar quantidade de propostas quando é o user (deve verificar também o status do apartamento)
+--- User retornar quantidade de apartamentos quando é o user (deve verificar também o status do user)
+--- verificar o select que traz os apt catalogo se o status do user(collaborador) é levado em questão
+--- login não fazer login do user eliminado
